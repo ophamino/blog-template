@@ -54,4 +54,4 @@ command to run the server
 ```python
 python manage.py runserver
 ```
-## See you later👋!
+## See you later!👋
